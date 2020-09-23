@@ -3,7 +3,12 @@ cock
 hen
 ostrich, Struthio camelus
 brambling, Fringilla montifringilla
-goldfinch, Carduelis carduelis
+goldfinch, Carduelisffffffffffffffffffff
+
+
+ffffffffffffff
+vffffff
+cccccccccccccccccccccarduelis
 house finch, linnet, Carpodacus mexicanus
 junco, snowbird
 indigo bunting, indigo finch, indigo bird, Passerina cyanea
